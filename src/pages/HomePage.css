@@ -1,0 +1,9 @@
+.homepage{
+    color: rgb(243, 210, 167);
+    background-color: rgb(215, 241, 241);
+    height: 75vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
