@@ -1,0 +1,19 @@
+.side_bar{
+    width: 12vw;
+   
+    padding: 0 15px;
+    padding-top: 10px;
+}
+.nav-links{
+    background: rgb(212, 252, 214);
+    border: 0.5px solid rgb(169, 241, 167);
+    border-radius: 2rem;
+    text-align: center;
+    margin-bottom: 10%;
+    padding: 5% 0px;
+    font-size: small;
+}
+.nav-links:hover{
+    cursor: pointer;
+    box-shadow: 2px 3px  green;
+}

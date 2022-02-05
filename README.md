@@ -1,6 +1,6 @@
 # Getting Started with React App
 ## link
-<p>link  ==>><a style="" href="https://pankajsahu19056.github.io/faculty-dashboard/">link to live deployed web-app</a></p> 
+<p>link  ==>><a style="" href="https://pankajsahh.github.io/faculty-dashboard/">link to live deployed web-app</a></p> 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
