@@ -9,14 +9,14 @@ function NavBar() {
 
   <Navbar bg="light" expand="lg">
   <Container fluid>
-    <Navbar.Brand  href="#home">Home</Navbar.Brand>
-    <Navbar id="basic-navbar-nav">
+    <Navbar.Brand  href="\">Home</Navbar.Brand>
+    <div>
       <Nav className="me-auto">
-        <Nav.Link href="#home">About Us</Nav.Link>
-        <Nav.Link href="#home">Contact Us</Nav.Link>
-        <Nav.Link href="#link">Login/Signup</Nav.Link>
+        <Nav.Link href="/aboutUs">About Us</Nav.Link>
+        <Nav.Link href="/ContactUs">Contact Us</Nav.Link>
+        <Nav.Link href="/signin">Login/Signup</Nav.Link>
       </Nav>
-    </Navbar>
+      </div>
   </Container>
 </Navbar>
   </div>
