@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/faculty-dashboard/static/css/main.9ad87914.chunk.css",
+    "main.js": "/faculty-dashboard/static/js/main.6875bfaf.chunk.js",
+    "main.js.map": "/faculty-dashboard/static/js/main.6875bfaf.chunk.js.map",
+    "runtime-main.js": "/faculty-dashboard/static/js/runtime-main.963f1b6f.js",
+    "runtime-main.js.map": "/faculty-dashboard/static/js/runtime-main.963f1b6f.js.map",
+    "static/css/2.98111dc1.chunk.css": "/faculty-dashboard/static/css/2.98111dc1.chunk.css",
+    "static/js/2.a9f0161b.chunk.js": "/faculty-dashboard/static/js/2.a9f0161b.chunk.js",
+    "static/js/2.a9f0161b.chunk.js.map": "/faculty-dashboard/static/js/2.a9f0161b.chunk.js.map",
+    "index.html": "/faculty-dashboard/index.html",
+    "static/css/2.98111dc1.chunk.css.map": "/faculty-dashboard/static/css/2.98111dc1.chunk.css.map",
+    "static/css/main.9ad87914.chunk.css.map": "/faculty-dashboard/static/css/main.9ad87914.chunk.css.map",
+    "static/js/2.a9f0161b.chunk.js.LICENSE.txt": "/faculty-dashboard/static/js/2.a9f0161b.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.963f1b6f.js",
+    "static/css/2.98111dc1.chunk.css",
+    "static/js/2.a9f0161b.chunk.js",
+    "static/css/main.9ad87914.chunk.css",
+    "static/js/main.6875bfaf.chunk.js"
+  ]
+}
