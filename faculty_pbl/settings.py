@@ -10,9 +10,9 @@ For the full list of settings and their values, see
 https://docs.djangoproject.com/en/4.0/ref/settings/
 """
 
-from msilib.schema import Component
+#from msilib.schema import Component
 from pathlib import Path
-
+import django_heroku
 # Build paths inside the project like this: BASE_DIR / 'subdir'.
 BASE_DIR = Path(__file__).resolve().parent.parent
 
@@ -149,9 +149,11 @@ EMAIL_USE_TLS = True
 EMAIL_HOST_USER = 'pankajsahu98990@gmail.com'
 EMAIL_HOST_PASSWORD = '1111'
 
-#admin details {{ password Sahu@123}{ pankajsahu19056@gamil.com }{ superuser } { username pankajsahu }}
 
 
 ALLOWED_HOSTS=['*']
 
 CORS_ORIGIN_ALLOW_ALL = True
+
+django_heroku.settings(locals())
+
