@@ -151,7 +151,7 @@ EMAIL_HOST_PASSWORD = '1111'
 
 
 
-ALLOWED_HOSTS=['*']
+ALLOWED_HOSTS=['*','.vercel.app']
 
 CORS_ORIGIN_ALLOW_ALL = True
 
